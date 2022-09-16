@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahil-sayyad" alt="sahil-sayyad" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Development**
+- 🌱 I’m currently learning **Full Stack Software Development**
 
 - 📫 How to reach me **igsahilsayyad@gmail.com**
 
